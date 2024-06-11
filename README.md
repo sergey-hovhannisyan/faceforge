@@ -4,6 +4,10 @@
 
 FaceForge generates realistic human face images using the CelebA dataset. It employs a **Wasserstein Generative Adversarial Network with Gradient Penalty (WGAN-GP)** for stable and high-quality image generation.
 
+## 📊 Visualization
+
+![Training Progress](gifs/training_progress.gif)
+
 ## 🌟 Features
 
 - 📸 High-resolution image generation (128x128)
@@ -18,10 +22,6 @@ FaceForge generates realistic human face images using the CelebA dataset. It emp
 ## 🧩 Usage
 
 Load the saved model to generate new images after training. Refer to the usage section in the training script for detailed instructions.
-
-## 📊 Visualization
-
-![Training Progress](gifs/training_progress.gif)
 
 ## 🗂️ Directory Structure
 
