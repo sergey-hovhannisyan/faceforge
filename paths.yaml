@@ -1,0 +1,7 @@
+celeba:
+  path: "W:/data/celeba"
+  imgs: "W:/data/celeba/imgs"
+  attr: "W:/data/celeba/attr.csv"
+  bbox: "W:/data/celeba/bbox.csv"
+  landmarks: "W:/data/celeba/landmarks.csv"
+  partition: "W:/data/celeba/eval_partition.csv"
